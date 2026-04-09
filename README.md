@@ -1,4 +1,4 @@
-RAG Chatbot for Full Stack Academy (Gradio + OpenRouter + FAISS)
+## RAG Chatbot for Full Stack Academy (Gradio + OpenRouter + FAISS)
 This project implements a simple Retrieval-Augmented Generation (RAG) chatbot designed to answer questions about Full Stack Academy, leveraging both website content and a CSV file as data sources. The chatbot is built using LangChain, utilizes FAISS for vector storage, and is served via a Gradio interface. It integrates with OpenRouter for language model access.
 
 Features
